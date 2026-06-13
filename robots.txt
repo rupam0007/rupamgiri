@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /assets/
+
+Sitemap: https://rupamgiri.dev/sitemap.xml
+
+# Rupam Giri - Full Stack Developer Portfolio
+# https://rupamgiri.dev
